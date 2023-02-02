@@ -21,7 +21,7 @@ Go 在启动时，会向操作系统申请一大块内存(虚拟内存)，分配
 
 **Go 的内存分配是多层级分配的，有以下几个概念**
 
-[Go 内存管理流程图](/image/memory_allocation.jpg)
+![Go 内存管理流程图](/image/memory_allocation.jpg)
 
 1.Page
 
